@@ -1,5 +1,6 @@
 # Hello, I'm Matthew 👋
 I am an aspiring student programmer. I mainly program using the .NET framework and C#.
+I have a year left to create something amazing and revolutionary. No second can be wasted!
 <!--
 ![](https://cdn.discordapp.com/attachments/756953114065633321/758855015590264862/readme.png)
 -->
