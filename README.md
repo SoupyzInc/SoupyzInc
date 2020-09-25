@@ -1,5 +1,5 @@
 # Hello, I'm Matthew 👋
-I am an aspiring student programmer. I mainly program using .NET and C#.
+I am an aspiring student programmer. I mainly program using the .NET framework and C#.
 <!--
 ![](https://cdn.discordapp.com/attachments/756953114065633321/758855015590264862/readme.png)
 -->
