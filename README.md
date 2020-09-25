@@ -9,4 +9,4 @@ I am an aspiring student programmer. I mainly program using the .NET framework a
 A down to the point guide for making a Discord bot using the Discord.Net API. Created due to the lack of clear and concise tutorials on Discord.Net, with the goal of contributing back to the community.
 
 ### [FunkyBot](https://github.com/SoupyzInc/FunkyBot)
-A simple general purpose C# discord bot written with Discord.Net for the FunkyZone server. Created to practice using the GutHub environment; e.g., branches, pull requests, etc.
+A simple general purpose C# discord bot written with Discord.Net for the FunkyZone server. Created to practice using the GutHub version control systems; e.g., branches, pull requests, etc.
