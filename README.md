@@ -5,6 +5,8 @@ I am an aspiring student programmer. I mainly program using .NET and C#.
 -->
 
 ## Current Projects
-### Discord.Net Guide
-A short and simple guide to making a Discord bot using the Discord.Net API. Created due to the lack of clear and concise tutorials on Discord.Net, with the goal of contributing back to the community
+### [Discord.Net Guide](https://github.com/SoupyzInc/Discord.Net-Guide)
+A short and simple guide to making a Discord bot using the Discord.Net API. Created due to the lack of clear and concise tutorials on Discord.Net, with the goal of contributing back to the community.
 
+### [FunkyBot](https://github.com/SoupyzInc/FunkyBot)
+A simple general purpose discord bot for the FunkyZone server. Created to practice using the GutHub environment; e.g., branches, pull requests, etc.
