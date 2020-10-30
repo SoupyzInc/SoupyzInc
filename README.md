@@ -9,5 +9,5 @@ I have a year left to create something amazing and revolutionary. No second can 
 ### [Discord.Net Guide](https://github.com/SoupyzInc/Discord.Net-Guide)
 A down to the point guide for making a Discord bot using the Discord.Net API. Created due to the lack of clear and concise tutorials on Discord.Net, with the goal of contributing back to the community.
 
-### [FunkyBot](https://github.com/SoupyzInc/FunkyBot)
-A simple general purpose C# discord bot written with Discord.Net for the FunkyZone server. Created to practice using the GutHub version control systems.
+### [Canvas Dark Mode](https://github.com/SoupyzInc/CanvasDarkMode)
+A Stylus extenions written in CSS to give the Canvas/myLearning website a cleaner and modern look.
