@@ -6,6 +6,9 @@ I have a year left to create something amazing and revolutionary. No second can 
 -->
 
 ## Projects
+### [Console Table Tutorial](https://github.com/SoupyzInc/ConsoleTable)
+A guided tutorial on how to make a library to create beautiful and easy-to-use tables for console applications. 
+
 ### [Discord.Net Guide](https://github.com/SoupyzInc/Discord.Net-Guide)
 A down to the point guide for making a Discord bot using the Discord.Net API. Created due to the lack of clear and concise tutorials on Discord.Net, with the goal of contributing back to the community.
 
