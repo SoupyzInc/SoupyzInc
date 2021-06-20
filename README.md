@@ -20,8 +20,9 @@
 </blockquote>
 
 <h2>Contact me!</h2>
-Email: okashita.matthew@gmail.com <br>
-<img height="30" align="left" src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Discord-Logo-Color.png" alt="Discord: ">SoupyzInc#9189
+<img align="left" src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Gmail-logo.png" alt="Email: ">okashita.matthew@gmail.com
+<br>
+<img align="left" src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Discord-Logo-Color.png" alt="Discord: ">SoupyzInc#9189
 
 
 
