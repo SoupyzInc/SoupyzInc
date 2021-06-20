@@ -31,6 +31,8 @@ if __name__ == "__main__":
         try:
             btc_data = k.query_public('OHLC', {'pair': 'XBTUSD', 'interval': '60'})['result']['XXBTZUSD']
             ltc_data = k.query_public('OHLC', {'pair': 'XLTCZUSD', 'interval': '60'})['result']['XLTCZUSD']
+        except:
+            print('Error')
         else:
             # Get BTC prices
             btc_oldest = float(btc_data[0][4])
