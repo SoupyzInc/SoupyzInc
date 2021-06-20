@@ -53,7 +53,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 </details>
 <details>
     <summary><a href="https://github.com/SoupyzInc/KrakenOrigami">KrakenOrigami</a> | Python, MySQL, Kraken REST API, discord.py</summary>
-    <p><blockquote>A Discord bot written in Python to paper trade crypto currencies. It utilizes <a href="https://github.com/Rapptz/discord.py">discord.py</a> and MySQL to make and store paper trades. Prices are taken from the Kraken REST API using <a href="https://github.com/veox/python3-krakenex">krakenex</a>.<br><br><img src="https://github.com/SoupyzInc/KrakenOrigami/blob/main/Wiki/Kraken_Showcase.png" alt="KrakenOrigami Demo"></blockquote></p>
+    <p><blockquote>A Discord bot written in Python to paper trade crypto currencies. It utilizes <a href="https://github.com/Rapptz/discord.py">discord.py</a> and MySQL to make and store paper trades. Prices are taken from the <a href="https://docs.kraken.com/rest/">Kraken REST API</a> using <a href="https://github.com/veox/python3-krakenex">krakenex</a>.<br><br><img src="https://github.com/SoupyzInc/KrakenOrigami/blob/main/Wiki/Kraken_Showcase.png" alt="KrakenOrigami Demo"></blockquote></p>
 </details>
 <details>
     <summary><a href="https://github.com/SoupyzInc/CanvasDarkMode">CanvasDarkMode</a> | CSS, Stylus</summary>
