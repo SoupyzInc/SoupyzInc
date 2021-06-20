@@ -31,9 +31,10 @@ if __name__ == "__main__":
         try:
             btc_data = k.query_public('OHLC', {'pair': 'XBTUSD', 'interval': '60'})['result']['XXBTZUSD']
             ltc_data = k.query_public('OHLC', {'pair': 'XLTCZUSD', 'interval': '60'})['result']['XLTCZUSD']
-        except:
-            print('Error')
+        except Exception as e:
+            print('Handled query error: ' + e)
         else:
+            print('No query errors.')
             # Get BTC prices
             btc_oldest = float(btc_data[0][4])
             btc_latest = float(btc_data[-1][4])
@@ -67,6 +68,8 @@ if __name__ == "__main__":
             html += '| {0} | {1} | As of {2} | From the Kraken REST API. |'.format(btc_string, ltc_string, timestamp)
             html +='\n```'
 
+            print(html)
+
             assert(len(sys.argv) == 4)
             readmePath = sys.argv[3]
 
@@ -77,4 +80,6 @@ if __name__ == "__main__":
 
             with open(readmePath, "w") as readme:
                 readme.write(newContent)
+    else:
+        print('Kraken servers are not online.')
             
