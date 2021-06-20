@@ -15,7 +15,7 @@
 
 <!--START_SECTION:crypto-prices-->
 ```java
-| BTC: $35412.5 ▼ -0.12% | BTC: $152.52 ▼ -0.25% | As of Sun, 20 Jun 21 07:45:10 +0000 |
+| BTC: $35507.7 ▼ -0.11% | LTC: $152.68 ▼ -0.25% | As of Sun, 20 Jun 21 07:47:38 +0000 |
 ```
 <!--END_SECTION:crypto-prices-->
 
