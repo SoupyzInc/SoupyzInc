@@ -57,7 +57,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 </details>
 <details>
     <summary><a href="https://github.com/SoupyzInc/CanvasDarkMode">CanvasDarkMode</a> | CSS, Stylus</summary>
-    <p><blockquote>An open source Stylus extension to give Canvas a dark mode. Now students can work late at night without burning their retinas out!</blockquote></p>
+    <p><blockquote>An open source Stylus extension to give Canvas a dark mode. Now students can work late at night without burning their retinas out!<br><br><img src="https://github.com/SoupyzInc/CanvasDarkMode/blob/main/images/Dashboardv1.1.5.png" alt="CanvasDarkMode Demo"></blockquote></p>
 </details>
 <details>
     <summary>School</summary>
