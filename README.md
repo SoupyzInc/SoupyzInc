@@ -13,6 +13,12 @@
 
 <img src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Images/GitHub%20Banner.png" alt="Matthew Okashita | SoupyzInc">
 
+<!--START_SECTION:crypto-prices-->
+```java
+| BTC: $35412.5 ▼ -0.12% | BTC: $152.52 ▼ -0.25% | As of Sun, 20 Jun 21 07:45:10 +0000 |
+```
+<!--END_SECTION:crypto-prices-->
+
 ```java
 System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 ```
