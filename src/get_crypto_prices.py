@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
         # Build final string
         html = '```java\n'
-        html += '| {0} | {1} | As of {2}, from Kraken.'.format(btc_string, ltc_string, timestamp)
+        html += '| {0} | {1} | As of {2}, from the Kraken REST API.'.format(btc_string, ltc_string, timestamp)
         html +='\n```'
 
         assert(len(sys.argv) == 4)
