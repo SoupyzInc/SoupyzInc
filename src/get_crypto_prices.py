@@ -33,7 +33,8 @@ if __name__ == "__main__":
             btc_data = k.query_public('OHLC', {'pair': 'XBTUSD', 'interval': '60'})['result']['XXBTZUSD']
             ltc_data = k.query_public('OHLC', {'pair': 'XLTCZUSD', 'interval': '60'})['result']['XLTCZUSD']
         except Exception as e:
-            print('Handled query error: ' + e)
+            print('Handled query error:')
+            print(e)
         else:
             print('No query errors.')
             # Get BTC prices
