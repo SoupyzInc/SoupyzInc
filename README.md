@@ -48,6 +48,10 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 
 <h2>What have I done? 🎉</h2>
 <details>
+    <summary><a href="https://github.com/SoupyzInc/AreaSoup">AreaSoup</a> | Java, Swing, Calculus</summary>
+    <p><blockquote>A Java Swing app to visualize different integral approximation techniques.</blockquote></p>
+</details>
+<details>
     <summary><a href="https://github.com/SoupyzInc/KrakenOrigami">KrakenOrigami</a> | Python, MySQL, REST API, discord.py</summary>
     <p><blockquote>A Discord bot written in Python to paper trade crypto currencies. It utilizes discord.py and MySQL to make and store paper trades. Prices are taken from the Kraken REST API.</blockquote></p>
 </details>
