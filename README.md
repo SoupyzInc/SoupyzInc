@@ -1,3 +1,16 @@
+<!--
+    Thanks for peeking under the hood! It's pretty neat right?
+
+    While you are welcome to use this README as a guide, please
+    DO NOT just blindly copy it. 1. It's never good to blindly 
+    copy code you don't understand and 2. You may end up leaving
+    my information in your README.
+
+    I'm glad you enjoyed my README enough to take a peak under 
+    the hood! <3
+        - Matthew Okashita | SoupyzInc (https://github.com/SoupyzInc)
+-->
+
 <img src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Images/GitHub%20Banner.png" alt="Matthew Okashita | SoupyzInc">
 
 ```java
@@ -5,7 +18,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 ```
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=soupyzinc&hide=contribs&count_private=true&show_icons=true&theme=dark&title_color=9aa0a6&text_coolor+9aa0a6&icon_color=CAD1D9&bg_color=00000000">
-<p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in highschool, and I have a programming addiction. I'm planning to pursue a master's in Comnputer Science and maybe a minor in math while I'm at it.</p>
+<p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in highschool, and I have a programming addiction. I'm planning to pursue a master's in Computer Science and maybe a minor in math while I'm at it.</p>
 
 <br>
 
