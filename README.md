@@ -65,3 +65,6 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
     <li>Email: okashita.matthew@gmail.com</li>
     <li>Discord: SoupyzInc#9189</li>
 </ul>
+
+<h2>Attribution</h2>
+I used <a href="https://github.com/ouuan">ouuan's</a> README as a guide to setting up this repository's GitHub Actions to display crypto prices.
