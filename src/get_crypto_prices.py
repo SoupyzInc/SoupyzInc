@@ -23,6 +23,7 @@ if __name__ == "__main__":
     k = krakenex.API()
 
     # Assert that the Kraken REST API is functional before pulling data.
+    print('▼ get_crypto_prices.py Debug')
     if k.query_public('SystemStatus')['result']['status'] == "online":
         # Get timestamp
         timestamp = k.query_public('Time')['result']['rfc1123']
