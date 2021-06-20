@@ -26,7 +26,7 @@
 
 <h3><a href="https://github.com/SoupyzInc/CanvasDarkMode">CanvasDarkMode</a></h3>
 <blockquote>
-        <p>An open source Stylus extension to give Canvas a dark mode! Now students can work late at night without burning their retinas out.</p>
+        <p>An open source Stylus extension to give Canvas a dark mode. Now students can work late at night without burning their retinas out!</p>
 </blockquote>
 
 <h2>Contact me!</h2>
