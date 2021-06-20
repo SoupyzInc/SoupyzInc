@@ -61,7 +61,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 </details>
 <details>
     <summary>School</summary>
-    <p><blockquote>Notable courses: AP Computer Science A, C# Programming (DE), AP Physics 1, AP Calculus AB, and AP English Language Composition.<br>Other achievements: CodeQuest 2020 (14th/~35), MOS Certified, Florida Marching Band 2019 Class 4A State Champions.</blockquote></p>
+    <p><blockquote>Notable courses: AP Computer Science A, C# Programming (COP2360), AP Physics 1, AP Calculus AB, and AP English Language Composition.<br>Other achievements: CodeQuest 2020 (14th/~35), MOS Certified, Florida Marching Band 2019 Class 4A State Champions.</blockquote></p>
 </details>
 
 <h2>Contact me!</h2>
