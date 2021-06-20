@@ -1,4 +1,4 @@
-name: Update Crypto Prices
+name: Update crypto prices
 
 on:
   push:
