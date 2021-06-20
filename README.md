@@ -35,7 +35,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 </details>
 <details>
     <summary>SoupOS | C/C++, Makefile</summary>
-    <p><blockquote>My own operating system built from scratch! Being made with the guidance of <a href="https://www.youtube.com/watch?v=mpPbKEeWIHU&list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ">Poncho's YouTube series</a>. Currently debugging the page table manager.</blockquote></p>
+    <p><blockquote>My own operating system built from scratch! Being made with the guidance of <a href="https://www.youtube.com/watch?v=mpPbKEeWIHU&list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ">Poncho's OS Dev series</a>. Currently debugging the page table manager.</blockquote></p>
 </details>
 <details>
     <summary>Calculatte | Java library</summary>
