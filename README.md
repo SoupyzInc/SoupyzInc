@@ -31,7 +31,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 <h2>What am I working on? 🤔</h2>
 <details>
     <summary><a href="https://github.com/WRHS-Programming-Club">WRHS Programming Club</a></summary>
-    <p><blockquote>Cofounder and President of the WRHS Programming Club.</blockquote></p>
+    <p><blockquote>Cofounder and president of the WRHS Programming Club.</blockquote></p>
 </details>
 <details>
     <summary>SoupOS | C/C++, Makefile</summary>
