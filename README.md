@@ -24,7 +24,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 ```
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=soupyzinc&hide=contribs&count_private=true&show_icons=true&theme=dark&title_color=9aa0a6&text_coolor+9aa0a6&icon_color=CAD1D9&bg_color=00000000">
-<p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in highschool, and I have a programming addiction. I'm planning to pursue a master's in computer science and maybe a minor in math while I'm at it.</p>
+<p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in high school, and I have a programming addiction. I'm planning to pursue a master's in computer science and maybe a minor in math while I'm at it.</p>
 
 <br>
 
