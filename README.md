@@ -20,7 +20,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 </details>
 <details>
   <summary>School</summary>
-  <p><blockquote>AP Physics 2, AP Calculus BC, AP Statistics.</blockquote></p>
+  <p><blockquote>AP Physics 2, AP Calculus BC, and AP Statistics.</blockquote></p>
 </details>
 
 <h2>What have I done? 🎉</h2>
@@ -34,7 +34,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 </details>
 <details>
   <summary>School</summary>
-  <p><blockquote>AP Computer Science A, C# Programming (DE), AP Physics 1, AP Calculus AB, AP English Language Composition.</blockquote></p>
+  <p><blockquote>AP Computer Science A, C# Programming (DE), AP Physics 1, AP Calculus AB, and AP English Language Composition.</blockquote></p>
 </details>
 
 <h2>Contact me!</h2>
