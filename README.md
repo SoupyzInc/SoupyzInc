@@ -1,6 +1,6 @@
 <img src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Images/GitHub%20Banner.png" alt="">
 
-<p>Hey, I'm Matthew—yes, "Matt" is fine too, whatever comes naturally. I'm 16, a rising senior in highschool, and I have a programming addiction. I'm pursuing a Master's in Comnputer Science and maybe a Minor in math while I'm at it.</p>
+<p>Hey, I'm Matthew—yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in highschool, and I have a programming addiction. I'm pursuing a Master's in Comnputer Science and maybe a Minor in math while I'm at it.</p>
 
 <h2>What am I working on?</h2>
 <h3><a href="https://github.com/WRHS-Programming-Club">WRHS Programming Club</a></h3>
