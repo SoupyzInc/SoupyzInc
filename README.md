@@ -18,6 +18,10 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
   <summary>Calculatte | Java</summary>
   <p><blockquote>A simple Java calculus library. Why? I love math <i>and</i> programming! ❤️</blockquote></p>
 </details>
+<details>
+  <summary>School</summary>
+  <p><blockquote>AP Physics 2, AP Calculus BC, AP Statistics.</blockquote></p>
+</details>
 
 <h2>What have I done? 🎉</h2>
 <details>
@@ -28,13 +32,13 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
   <summary><a href="https://github.com/SoupyzInc/CanvasDarkMode">CanvasDarkMode</a> | CSS, Stylus</summary>
   <p><blockquote>An open source Stylus extension to give Canvas a dark mode. Now students can work late at night without burning their retinas out!</blockquote></p>
 </details>
+<details>
+  <summary>School</summary>
+  <p><blockquote>AP Computer Science A, C# Programming (DE), AP Physics 1, AP Calculus AB, AP English Language Composition.</blockquote></p>
+</details>
 
 <h2>Contact me!</h2>
 <ul>
     <li>Email: okashita.matthew@gmail.com</li>
     <li>Discord: SoupyzInc#9189</li>
 </ul>
-
-
-
-
