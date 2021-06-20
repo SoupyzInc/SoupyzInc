@@ -43,7 +43,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 </details>
 <details>
     <summary>School</summary>
-    <p><blockquote>Notable courses I will be taking: AP Physics 2, AP Calculus BC, and AP Statistics.<br>Other: CodeQuest 2021</blockquote></p>
+    <p><blockquote>Notable courses I will be taking: AP Physics 2, AP Calculus BC, and AP Statistics.<br>Other: CodeQuest 2021.</blockquote></p>
 </details>
 
 <h2>What have I done? 🎉</h2>
@@ -57,7 +57,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 </details>
 <details>
     <summary>School</summary>
-    <p><blockquote>Notable courses I've completed: AP Computer Science A, C# Programming (DE), AP Physics 1, AP Calculus AB, and AP English Language Composition.<br>Other achievements: CodeQuest 2020 (14th/~35), MOS Certified</blockquote></p>
+    <p><blockquote>Notable courses I've completed: AP Computer Science A, C# Programming (DE), AP Physics 1, AP Calculus AB, and AP English Language Composition.<br>Other achievements: CodeQuest 2020 (14th/~35), MOS Certified.</blockquote></p>
 </details>
 
 <h2>Contact me!</h2>
