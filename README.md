@@ -15,7 +15,7 @@
 
 <!--START_SECTION:crypto-prices-->
 ```java
-| BTC: $35283.7 ▼ -0.13% | LTC: $151.86 ▼ -0.26% | As of Sun, 20 Jun 21 09:30:45 +0000, from the Kraken REST API. |
+| BTC: $35231.0 ▼ -0.14% | LTC: $151.4 ▼ -0.26% | As of Sun, 20 Jun 21 09:26:56 +0000, from the Kraken REST API. |
 ```
 <!--END_SECTION:crypto-prices-->
 
@@ -49,7 +49,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 <h2>What have I done? 🎉</h2>
 <details>
     <summary><a href="https://github.com/SoupyzInc/AreaSoup">AreaSoup</a> | Java, Swing, Calculus</summary>
-    <p><blockquote>A Java Swing app to visualize different integral approximation techniques.</blockquote></p>
+    <p><blockquote>A Java Swing app to visualize different integral approximation techniques.<br><br><img src="https://github.com/SoupyzInc/AreaSoup/blob/main/AreaSoup%20Demo.gif" alt="Demo of AreaSoup"></blockquote></p>
 </details>
 <details>
     <summary><a href="https://github.com/SoupyzInc/KrakenOrigami">KrakenOrigami</a> | Python, MySQL, REST API, discord.py</summary>
