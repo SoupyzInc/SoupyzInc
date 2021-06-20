@@ -43,7 +43,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 </details>
 <details>
     <summary>School</summary>
-    <p><blockquote>Notable courses: AP Physics 2, AP Calculus BC, and AP Statistics.<br>Other: CodeQuest Orlando 2021.</blockquote></p>
+    <p><blockquote>Notable courses: AP Physics 2, AP Calculus BC, and AP Statistics.<br>Others: CodeQuest Orlando 2021 and marching/concert band.</blockquote></p>
 </details>
 
 <h2>What have I done? 🎉</h2>
