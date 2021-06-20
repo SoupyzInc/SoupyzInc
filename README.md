@@ -71,4 +71,4 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese—岡下雄太.
 </ul>
 
 <h2>Attribution</h2>
-I used <a href="https://github.com/ouuan">ouuan's</a> <a href="https://github.com/ouuan/ouuan">README</a> as a guide to setting up this repository's GitHub Actions to display crypto prices.
+I used <a href="https://github.com/ouuan">ouuan's</a> <a href="https://github.com/ouuan/ouuan">README</a> as a guide to setting up this repository's GitHub Actions to display the above crypto prices.
