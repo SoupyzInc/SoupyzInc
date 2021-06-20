@@ -1,4 +1,4 @@
-<img src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Images/GitHub%20Banner.png" alt="">
+<img src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Images/GitHub%20Banner.png" alt="Matthew Okashita | SoupyzInc">
 
 <p>Hey, I'm Matthew or in Japanese—<ruby>岡下<rp>(</rp><rt>Okashita</rt><rp>)</rp></ruby><ruby>雄太<rp>(</rp><rt>Yuta</rt><rp>)</rp></ruby>. Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in highschool, and I have a programming addiction. I'm pursuing a Master's in Comnputer Science and maybe a Minor in math while I'm at it.</p>
 
