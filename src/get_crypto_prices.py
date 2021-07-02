@@ -26,7 +26,7 @@ if __name__ == "__main__":
     print('▼ get_crypto_prices.py Debug')
     if k.query_public('SystemStatus')['result']['status'] == "online":
         # Get timestamp
-        timestamp = k.query_public('Time')['result']['rfc1123'].lstrip()
+        timestamp = k.query_public('Time')['result']['rfc1123'].replace("  ", " ")
 
         # Get data first
         try:
