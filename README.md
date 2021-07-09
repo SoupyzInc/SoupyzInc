@@ -15,7 +15,7 @@
 
 <!--START_SECTION:crypto-prices-->
 ```java
-| BTC: $33126.8 ▼ -0.03% | LTC: $131.77 ▼ -0.18% | As of Fri, 9 Jul 21 05:28:08 +0000 | From the Kraken REST API. |
+| BTC: $33060.6 ▼ -0.03% | LTC: $131.54 ▼ -0.18% | As of Fri, 9 Jul 21 05:47:11 +0000 | From the Kraken REST API. |
 ```
 <!--END_SECTION:crypto-prices-->
 
