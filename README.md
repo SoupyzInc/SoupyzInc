@@ -45,7 +45,7 @@ addiction. I'm planning to pursue a master's in computer science and maybe a min
 </details>
 
 <details>
-  <summary>Calculatte | Java library, Calculus</summary>
+  <summary><a href="https://github.com/Derivasians/Calculatte">Calculatte | Java library, Calculus</a></summary>
   <blockquote>
     A simple Java calculus library. Why? Because I love math <i>and</i> programming! ❤️
   </blockquote>
