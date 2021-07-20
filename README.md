@@ -29,9 +29,9 @@ addiction. I'm planning to pursue a master's in computer science and maybe a min
 
 <h2>What am I working on? 🤔</h2>
 <details>
-  <summary><a href="https://github.com/WRHS-Programming-Club">WRHS Programming Club</a></summary>
+  <summary><a href="https://github.com/Derivasians/Calculatte">Calculatte</a> | Java library, Calculus</summary>
   <blockquote>
-    Cofounder and president of the WRHS Programming Club.
+    A simple Java calculus library. Why? Because I love math <i>and</i> programming! ❤️
   </blockquote>
 </details>
 
@@ -45,9 +45,9 @@ addiction. I'm planning to pursue a master's in computer science and maybe a min
 </details>
 
 <details>
-  <summary><a href="https://github.com/Derivasians/Calculatte">Calculatte</a> | Java library, Calculus</summary>
+  <summary><a href="https://github.com/WRHS-Programming-Club">WRHS Programming Club</a></summary>
   <blockquote>
-    A simple Java calculus library. Why? Because I love math <i>and</i> programming! ❤️
+    Cofounder and president of the WRHS Programming Club.
   </blockquote>
 </details>
 
