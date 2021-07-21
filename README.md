@@ -6,6 +6,11 @@
   copy code you don't understand and 2. You may end up leaving
   my information in your README.
 
+  I used <a href="https://github.com/ouuan">ouuan's</a> 
+  <a href="https://github.com/ouuan/ouuan">README</a> as a guide 
+  to setting up this repository's GitHub Actions to display the 
+  below crypto prices.
+
   I'm glad you enjoyed my README enough to take a peak under 
   the hood! <3
     - Matthew Okashita | SoupyzInc (https://github.com/SoupyzInc)
@@ -99,7 +104,3 @@ addiction. I'm planning to pursue a master's in computer science and maybe a min
   <li>Email: okashita.matthew@gmail.com</li>
   <li>Discord: SoupyzInc#9189</li>
 </ul>
-
-<h2>Attribution</h2>
-I used <a href="https://github.com/ouuan">ouuan's</a> <a href="https://github.com/ouuan/ouuan">README</a> 
-as a guide to setting up this repository's GitHub Actions to display the above crypto prices.
