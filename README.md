@@ -1,5 +1,5 @@
 <!--
-  Thanks for peeking under the hood! It's pretty neat right?
+  Thanks for peeking under the hood! It's pretty neat, right?
 
   While you are welcome to use this README as a guide, please
   DO NOT just blindly copy it. 1. It's never good to blindly 
