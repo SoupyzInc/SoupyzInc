@@ -59,8 +59,8 @@ addiction. I'm planning to pursue a master's in computer science and maybe a min
 <details>
   <summary>School</summary>
   <blockquote>
-    Expected coursework: AP Physics 2, AP Calculus BC, and AP Statistics.<br>
-    Others: CodeQuest Orlando 2021 and marching/concert band.
+    Expected coursework: AP Physics 2, AP Calculus BC, AP Statistics.<br>
+    Others: CodeQuest Orlando 2021, Marching Band, Indoor Percussion, Concert Band.
   </blockquote>
 </details>
 
@@ -94,8 +94,8 @@ addiction. I'm planning to pursue a master's in computer science and maybe a min
 <details>
   <summary>School</summary>
   <blockquote>
-    Coursework: AP Computer Science A, C# Programming (COP2360), AP Physics 1, AP Calculus AB, and AP English Language Composition.<br>
-    Other achievements: CodeQuest Orlando 2020 (14th/~35), MOS Certified, Florida Marching Band 2019 Class 4A State Champions.
+    Coursework: AP Computer Science A (5), AP Physics 1 (4), AP Calculus AB (4), AP English Language (4), C# Programming (COP2360).<br>
+    Other achievements: CodeQuest Orlando 2020, MOS Certified, Florida Marching Band 2019 Class 4A State Champions.
   </blockquote>
 </details>
 
