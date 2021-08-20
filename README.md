@@ -28,7 +28,11 @@
 System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 ```
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=soupyzinc&hide=contribs&count_private=true&show_icons=true&theme=dark&title_color=9aa0a6&text_coolor+9aa0a6&icon_color=CAD1D9&bg_color=00000000">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soupyzinc&count_private=true&show_icons=true&theme=dark&title_color=9aa0a6&text_coolor+9aa0a6&icon_color=CAD1D9&bg_color=00000000" alt="SoupyzInc's GitHub Stats">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SoupyzInc&background=00000000&stroke=9AA0A6&currStreakNum=9AA0A6&fire=DD2727&ring=DD2727&sideNums=9AA0A6&sideLabels=9AA0A6&currStreakLabel=DD2727&border=9AA0A6&dates=9AA0A6" alt="SoupyzInc's GitHub Streak">
+</p>
+
 <p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in high school, and I have a programming 
 addiction. I'm planning to pursue a PhD in computer science and maybe a minor in math while I'm at it. After college, I want to do computer science research.
 <p>🔗 Check out my website at <a href="https://soupyzinc.tech/">soupyzinc.tech</a>!<br>
