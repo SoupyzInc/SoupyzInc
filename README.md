@@ -20,7 +20,7 @@
 
 <!--START_SECTION:crypto-prices-->
 ```java
-| BTC: $48883.5 ▲ 0.53% | LTC: $182.25 ▲ 0.55% | As of Sat, 21 Aug 21 03:14:20 +0000 | From the Kraken REST API. |
+| BTC: $49020.6 ▲ 0.53% | LTC: $182.25 ▲ 0.56% | As of Sat, 21 Aug 21 02:25:24 +0000 | From the Kraken REST API. |
 ```
 <!--END_SECTION:crypto-prices-->
 
@@ -29,8 +29,8 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 ```
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soupyzinc&count_private=true&show_icons=true&theme=dark&title_color=9aa0a6&text_coolor+9aa0a6&icon_color=CAD1D9&bg_color=00000000" alt="SoupyzInc's GitHub Stats">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SoupyzInc&background=00000000&stroke=9AA0A6&currStreakNum=9AA0A6&fire=DD2727&ring=DD2727&sideNums=9AA0A6&sideLabels=9AA0A6&currStreakLabel=DD2727&border=9AA0A6&dates=9AA0A6" alt="SoupyzInc's GitHub Streak">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=soupyzinc&count_private=true&show_icons=true&theme=dark&title_color=9aa0a6&text_coolor+9aa0a6&icon_color=CAD1D9&bg_color=00000000" alt="SoupyzInc's GitHub Stats"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SoupyzInc&background=00000000&stroke=9AA0A6&currStreakNum=9AA0A6&fire=DD2727&ring=DD2727&sideNums=9AA0A6&sideLabels=9AA0A6&currStreakLabel=DD2727&border=9AA0A6&dates=9AA0A6" alt="SoupyzInc's GitHub Streak"></a>
 </p>
 
 <p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in high school, and I have a programming 
