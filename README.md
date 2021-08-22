@@ -34,7 +34,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 </p>
 
 <p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in high school, and I have a programming 
-addiction. I'm planning to pursue a PhD in computer science and maybe a minor in math while I'm at it. After college, I want to do computer science research.
+addiction. I'm planning to pursue a PhD in computer science and maybe a minor in math while I'm at it. Currently, I am interested in doing computer science and math research.
 <p>🔗 Check out my website at <a href="https://soupyzinc.tech/">soupyzinc.tech</a>!<br>
 
 <h2>What am I working on? 🤔</h2>
