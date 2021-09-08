@@ -55,6 +55,13 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 </details>
 
 <details>
+  <summary><a href="https://github.com/SoupyzInc/SPWNNotebook">SPWN Notebook</a></summary>
+  <blockquote>
+    A notebook on my progression using SPWN to make Geometry Dash levels.
+  </blockquote>
+</details>
+
+<details>
   <summary><a href="https://github.com/WRHS-Programming-Club">WRHS Programming Club</a></summary>
   <blockquote>
     Cofounder and president of the WRHS Programming Club.
