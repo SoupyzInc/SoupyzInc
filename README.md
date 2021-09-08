@@ -64,7 +64,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 <details>
   <summary>School</summary>
   <blockquote>
-    Expected coursework: AP Physics 2, AP Calculus BC, AP Statistics.<br>
+    Expected coursework: AP Calculus BC, AP Statistics, AP Physics 2.<br>
     Others: CodeQuest Orlando 2021, Marching Band, Indoor Percussion, Concert Band.
   </blockquote>
 </details>
@@ -99,7 +99,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 <details>
   <summary>School</summary>
   <blockquote>
-    Coursework: AP Computer Science A (5), AP Physics 1 (4), AP Calculus AB (4), AP English Language (4), C# Programming (COP2360).<br>
+    Coursework: AP Calculus AB (4), AP Physics 1 (4), AP Computer Science A (5), AP English Composition (4), Programming in C# (COP2360).<br>
     Other achievements: CodeQuest Orlando 2020, MOS Certified, Florida Marching Band 2019 Class 4A State Champions.
   </blockquote>
 </details>
