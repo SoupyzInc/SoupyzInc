@@ -20,7 +20,7 @@
 
 <!--START_SECTION:crypto-prices-->
 ```java
-| BTC: $46148.6 ▼ 0.0% | LTC: $180.52 ▲ 0.06% | As of Fri, 10 Sep 21 11:16:42 +0000 | From the Kraken REST API. |
+| BTC: $48646.4 ▲ 0.22% | LTC: $172.74 ▲ 0.23% | As of Sat, 28 Aug 21 14:11:28 +0000 | From the Kraken REST API. |
 ```
 <!--END_SECTION:crypto-prices-->
 
@@ -33,7 +33,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SoupyzInc&background=00000000&stroke=9AA0A6&currStreakNum=9AA0A6&fire=DD2727&ring=DD2727&sideNums=9AA0A6&sideLabels=9AA0A6&currStreakLabel=DD2727&border=9AA0A6&dates=9AA0A6" alt="SoupyzInc's GitHub Streak"></a>
 </p>
 
-<p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a rising senior in high school, and I have a programming addiction. I'm planning to pursue a PhD in computer science and a career in computer science research.
+<p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a senior in high school, and I have a programming addiction. I'm planning to pursue a PhD in computer science and a career in computer science research. I am currently researching about 📈 line charts.
 
 <p>🔗 Check out my website at <a href="https://soupyzinc.tech/">soupyzinc.tech</a>!<br>
 
@@ -55,13 +55,6 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 </details>
 
 <details>
-  <summary><a href="https://github.com/SoupyzInc/SPWNNotebook">SPWN Notebook</a></summary>
-  <blockquote>
-    A notebook on my progression using SPWN to make Geometry Dash levels.
-  </blockquote>
-</details>
-
-<details>
   <summary><a href="https://github.com/WRHS-Programming-Club">WRHS Programming Club</a></summary>
   <blockquote>
     Cofounder and president of the WRHS Programming Club.
@@ -71,7 +64,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 <details>
   <summary>School</summary>
   <blockquote>
-    Expected coursework: AP Calculus BC, AP Statistics, AP Physics 2.<br>
+    Expected coursework: AP Physics 2, AP Calculus BC, AP Statistics.<br>
     Others: CodeQuest Orlando 2021, Marching Band, Indoor Percussion, Concert Band.
   </blockquote>
 </details>
@@ -106,7 +99,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 <details>
   <summary>School</summary>
   <blockquote>
-    Coursework: AP Calculus AB (4), AP Physics 1 (4), AP Computer Science A (5), AP English Composition (4), Programming in C# (COP2360).<br>
+    Coursework: AP Computer Science A (5), AP Physics 1 (4), AP Calculus AB (4), AP English Language (4), C# Programming (COP2360).<br>
     Other achievements: CodeQuest Orlando 2020, MOS Certified, Florida Marching Band 2019 Class 4A State Champions.
   </blockquote>
 </details>
