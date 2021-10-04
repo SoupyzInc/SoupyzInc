@@ -33,7 +33,7 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SoupyzInc&background=00000000&stroke=9AA0A6&currStreakNum=9AA0A6&fire=DD2727&ring=DD2727&sideNums=9AA0A6&sideLabels=9AA0A6&currStreakLabel=DD2727&border=9AA0A6&dates=9AA0A6" alt="SoupyzInc's GitHub Streak"></a>
 </p>
 
-<p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 16, a senior in high school, and I have a programming addiction. I'm planning to pursue a PhD in computer science and a career in computer science research. I am currently researching about 📈 line charts. 
+<p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 17, a senior in high school, and I have a programming addiction. I'm planning to pursue a PhD in computer science and a career in computer science research. I am currently researching about 📈 line charts. 
   
 <p><i>If you are an expert in this field and wish to help me conduct my resarch to compete in ISEF, reach out to me! You can email me at okashita.matthew[at]gmail.com.</i>
 
