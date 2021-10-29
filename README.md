@@ -20,7 +20,7 @@
 
 <!--START_SECTION:crypto-prices-->
 ```java
-| BTC: $61261.8 ▲ 0.45% | LTC: $192.04 ▲ 0.29% | As of Fri, 29 Oct 21 12:33:00 +0000 | From the Kraken REST API. |
+| BTC: $60910.0 ▲ 0.44% | LTC: $190.8 ▲ 0.28% | As of Fri, 29 Oct 21 13:25:30 +0000 | From the Kraken REST API. |
 ```
 <!--END_SECTION:crypto-prices-->
 
