@@ -34,8 +34,6 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 </p>
 
 <p>Yes, "Matt" is fine too, whatever comes naturally to you. I'm 17, a senior in high school, and I have a programming addiction. I'm planning to pursue a PhD in computer science and a career in computer science research. I am currently researching about 📈 line charts. 
-  
-<p><i>If you are an expert in this field and wish to help me conduct my resarch to compete in ISEF, reach out to me! You can email me at okashita.matthew[at]gmail.com.</i>
 
 <p>🔗 Check out my website at <a href="https://soupyzinc.tech/">soupyzinc.tech</a>!<br>
 
