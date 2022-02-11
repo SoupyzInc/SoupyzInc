@@ -37,7 +37,15 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
 
 <p>🔗 Check out my website at <a href="https://soupyzinc.github.io/">soupyzinc.github.io</a>!<br>
 
-<h2>What am I working on? 🤔</h2>
+<!-- <h2>What am I working on? 🤔</h2>
+<details>
+  <summary>Florida State Science & Engineering Fair (SSEF) | Student Researcher</summary>
+  <blockquote>
+    I am representing my county at the Florida SSEF in Mathematics and Computational Sciences
+  </blockquote>
+</details> -->
+
+<h2>What have I done? 🎉</h2>
 <details>
   <summary><a href="https://github.com/Derivasians/Calculatte">Calculatte</a> | Calculus Java library</summary>
   <blockquote>
@@ -45,31 +53,6 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
   </blockquote>
 </details>
 
-<details>
-  <summary>SoupOS | C/C++, Makefile</summary>
-  <blockquote>
-    My own operating system built from scratch. Being made with the guidance of 
-    <a href="https://www.youtube.com/watch?v=mpPbKEeWIHU&list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ">Poncho's OS Dev series</a>. 
-    Currently debugging the page table manager.
-  </blockquote>
-</details>
-
-<details>
-  <summary><a href="https://github.com/WRHS-Programming-Club">WRHS Programming Club</a></summary>
-  <blockquote>
-    Cofounder and president of the WRHS Programming Club.
-  </blockquote>
-</details>
-
-<details>
-  <summary>School</summary>
-  <blockquote>
-    Expected coursework: AP Physics 2, AP Calculus BC, AP Statistics.<br>
-    Others: CodeQuest Orlando 2021, Marching Band, Indoor Percussion, Concert Band.
-  </blockquote>
-</details>
-
-<h2>What have I done? 🎉</h2>
 <details>
   <summary><a href="https://github.com/SoupyzInc/AreaSoup">AreaSoup</a> | Java, Swing, Calculus</summary>
   <blockquote>
@@ -93,14 +76,6 @@ System.out.println("Hey, I'm Matthew!"); // Or in Japanese, 岡下雄太.
   <blockquote>An open source Stylus extension to give Canvas a dark mode. Now students can work late at night 
     without burning their retinas out!<br><br>
     <img src="https://github.com/SoupyzInc/CanvasDarkMode/blob/main/images/Dashboardv1.1.5.png" alt="CanvasDarkMode Demo">
-  </blockquote>
-</details>
-
-<details>
-  <summary>School</summary>
-  <blockquote>
-    Coursework: AP Computer Science A (5), AP Physics 1 (4), AP Calculus AB (4), AP English Language (4), C# Programming (COP2360).<br>
-    Other achievements: CodeQuest Orlando 2020, MOS Certified, Florida Marching Band 2019 Class 4A State Champions.
   </blockquote>
 </details>
 
