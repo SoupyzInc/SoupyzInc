@@ -66,9 +66,9 @@ if __name__ == "__main__":
             ltc_string = 'LTC: ${0} {1} {2}%'.format(ltc_latest, ltc_arrow, ltc_percent)
 
             # Build final string
-            html = '```java\n'
+            html = '<pre><code>'
             html += '| {0} | {1} | As of {2} | From the Kraken REST API. |'.format(btc_string, ltc_string, timestamp)
-            html +='\n```'
+            html +='</code></pre>'
 
             print(html)
 
