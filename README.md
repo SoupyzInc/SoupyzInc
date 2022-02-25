@@ -34,9 +34,9 @@
 
 <h2>What am I working on? 🤔</h2>
 <details>
-<summary>State Science & Engineering Fair | Student Researcher</summary>
+<summary>Florida State Science & Engineering Fair | Student Researcher</summary>
 <blockquote>
-  I am representing my county at the Florida SSEF in Mathematics and Computational Sciences
+  I am representing my county at the Florida SSEF in Mathematics and Computational Sciences.
 </blockquote>
 </details>
 
