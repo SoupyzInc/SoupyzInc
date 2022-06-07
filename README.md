@@ -28,7 +28,7 @@
   <pre><code>System.out.println("Hey, Matthew here!"); // Or in Japanese, 岡下雄太.</code></pre>
 </div>
 
-<p>I'm 17, a senior in high school, and I have a programming addiction. I'm planning to pursue a PhD in computer science and a career in computer science research. I am currently researching about topological data analysis of 📈 time series data.
+<p>I'm 17, a freshman in university, and I have a programming and math addiction. I'm planning to pursue a Bachelor's in computer science. I am currently researching about topological data analysis of 📈 time series data.
 
 <p>🔗 Check out my website at <a href="https://soupyzinc.github.io/">soupyzinc.github.io</a>!<br>
 
