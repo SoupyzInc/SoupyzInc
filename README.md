@@ -34,12 +34,12 @@
 
 <h2>What am I working on? 🤔</h2>
 <details>
-<summary>Florida State Science & Engineering Fair | Student Researcher</summary>
+<summary><a href="https://github.com/SoupyzInc/NotrealEngine">Notreal™ Engine</a> | C++, OpenGL, GLFW, Graphics Engineering</summary>
 <blockquote>
-  I am representing my county at the Florida SSEF in Mathematics and Computational Sciences.
+  I am creating a hobby graphics engine using OpenGL and GLFW.<br><br>
+  <img src="https://github.com/SoupyzInc/NotrealEngine/blob/main/Images/5f2375a/rainbow_prism_wireframe.png" alt="A rainbow prism in wireframe mode.">
 </blockquote>
 </details>
-
 
 <h2>What have I done? 🎉</h2>
 <details>
