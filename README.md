@@ -45,7 +45,16 @@
 <details>
 <summary><a href="https://github.com/Derivasians/Calculatte">Calculatte</a> | Calculus Java library</summary>
 <blockquote>
-  A simple Java calculus library. Why? Because I love math <i>and</i> programming! ❤️
+  A simple Java calculus library. Why? Because I love math <i>and</i> programming! ❤️<br><br>
+  <pre><code>// Integrate f(x) = 2x from 0 to 2.
+
+  import io.github.derivasians.calculatte.*;
+
+  Calculatte c = new Calculatte();
+  Function TwoX = x -> 2 * x;
+
+  double a = c.integrate(0, 2, TwoX);
+  System.out.println(a);</code></pre>
 </blockquote>
 </details>
 <details>
