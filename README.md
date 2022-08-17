@@ -37,7 +37,7 @@
 <summary><a href="https://github.com/SoupyzInc/NotrealEngine">Notreal™ Engine</a> | C++, OpenGL, GLFW, Graphics Engineering</summary>
 <blockquote>
   I am creating a hobby graphics engine using OpenGL and GLFW.<br><br>
-  <img width="48%" src="https://github.com/SoupyzInc/NotrealEngine/blob/main/Demo/97ad76/coordinates_demo.gif" alt="Many spinning boxes in 3D space with altering textures.">
+  <img width="48%" src="https://github.com/SoupyzInc/NotrealEngine/blob/main/docs/97ad76/coordinates_demo.gif" alt="Many spinning boxes in 3D space with altering textures.">
 </blockquote>
 </details>
 
