@@ -28,7 +28,7 @@
   <pre><code>System.out.println("Hey, Matthew here!"); // Or in Japanese, 岡下雄太.</code></pre>
 </div>
 
-<p>I'm 17, a freshman in university, and I have a programming and math addiction. I'm planning to pursue a Bachelor's in computer science. I am currently researching about topological data analysis of 📈 time series data.
+<p>I have a programming and math addiction. I'm planning to pursue a Bachelor's in computer science. I am currently researching about topological data analysis of 📈 time series data.
 
 <p>You can find my <a href="https://soupyzinc.github.io/assets/files/Matthew%20Okashita%20-%20Academic%20Resume.pdf">resume here</a>.
 <!--<p>🔗 Check out my website at <a href="https://soupyzinc.github.io/">soupyzinc.github.io</a>!<br>-->
