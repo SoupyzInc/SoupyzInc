@@ -47,7 +47,7 @@
 </details>
 
 <h3><a href="https://github.com/Derivasians/Calculatte">Calculatte</a> – Numerical Calculus Library | <i>Java, GitHub, Unit Testing</i></h3>
-<details><summary>A simple Java calculus library. Why? Because I love math <i>and</i> programming! ❤️</summary>
+<details><summary>A simple Java calculus library. Why? Because I love math <i>and</i> programming!</summary>
 <br><pre><code>// Integrate f(x) = 2x from 0 to 2.
 
 import io.github.derivasians.calculatte.*;
