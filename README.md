@@ -11,7 +11,7 @@
     - Matthew Okashita | SoupyzInc (https://github.com/SoupyzInc)
 -->
 
-<img src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Images/GitHub%20Banner%20TTC%20Graph%20Slim.png" alt="Matthew Okashita | SoupyzInc">
+<img src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Images/Github%20Banner%20TTC%20Graph%20Slim.png" alt="Matthew Okashita | SoupyzInc">
 
 <div align="center">
 <!--START_SECTION:crypto-prices-->
