@@ -23,7 +23,7 @@
   <pre><code>disp("Hey, Matthew here!")  % Or in Japanese, 岡下雄太.</code></pre>
 </div>
 
-<p>I have a programming and math addiction.</p>
+<p>I have a programming and math addiction. You can find my resume <a href="https://www.linkedin.com/in/mokashita/overlay/1635514778922/single-media-viewer/?profileId=ACoAADPHAC4BI6608hnqkoFshpYzlnDPZfaZrEQ">here</a>.</p>
 
 <h2 align="center">Data Engineer - Bulls Racing</h2>
 <details><summary>Click to expand summary!</summary>
