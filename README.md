@@ -36,10 +36,17 @@
 
 <h2 align="center">Software Engineering Projects</h2>
 <h3><a href="https://github.com/SoupyzInc/NotrealEngine">Notreal Engine</a> – Graphics Engine | <i>C++, OpenGL, GLFW, GLM</i></h3>
+•	Developed an OpenGL based graphics engine from scratch. Supports rendering of 3D objects with custom textures, shading, and Phong lighting with specular maps.
+
 <h3><a href="https://github.com/SoupyzInc/LineDelta">LineDelta</a> – Topological Data Analysis Research | <i>Python, Matplotlib</i></h3>
+<details><summary>Developed a topological data analysis framework to analyze spikiness in chronological or time series data</summary>
+<br>•	Placed third in the state of Florida out of twenty-four other mathematics and computational science academic research projects at the Florida State Science and Engineering Fair, which tied the school record for placement. 
+<br>•	Placed first in Pasco County district in mathematics and computational sciences category and awarded the Mu Alpha Theta Award for the most challenging, original, thorough, and creative investigation of a problem involving mathematics accessible to a high school student at the Pasco Science & Engineering Showcase.
+</details>
+
 <h3><a href="https://github.com/Derivasians/Calculatte">Calculatte</a> – Numerical Calculus Library | <i>Java, GitHub, Unit Testing</i></h3>
 <details><summary>A simple Java calculus library. Why? Because I love math <i>and</i> programming! ❤️</summary>
-<pre><code>// Integrate f(x) = 2x from 0 to 2.
+<br><pre><code>// Integrate f(x) = 2x from 0 to 2.
 
 import io.github.derivasians.calculatte.*;
 
@@ -51,5 +58,7 @@ System.out.println(a);</code></pre>
 </details>
 
 <h3><a href="https://github.com/SoupyzInc/NotrealEngine">SoupOS</a> – Operating System Kernel | <i>C/C++, QEMU</i></h3>
+•	Developed a Linux-like operating system kernel from scratch using C, C++, and assembly. The operating
+system was hosted on a QEMU virtual machine.
 
-<p align="center"><a href="https://github.com/SoupyzInc"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" height="14" alt="GitHub: "> SoupyzInc</a> • <a href="https://www.linkedin.com/in/mokashita/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height="14" alt="LinkedIn: "> mokashita</a></p>
+<br><p align="center"><a href="https://github.com/SoupyzInc"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" height="14" alt="GitHub: "> SoupyzInc</a> • <a href="https://www.linkedin.com/in/mokashita/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height="14" alt="LinkedIn: "> mokashita</a></p>
