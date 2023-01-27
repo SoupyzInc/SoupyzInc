@@ -13,7 +13,7 @@
 
 <div align="center">
 <!--START_SECTION:crypto-prices-->
-<pre><code>| BTC: $22815.6 ▲ 0.37% | LTC: $86.61 ▲ 0.26% | As of Fri, 27 Jan 23 02:46:12 +0000 | From the Kraken REST API. |</code></pre>
+<pre><code>| BTC: $22680.3 ▲ 0.36% | LTC: $86.24 ▲ 0.25% | As of Fri, 27 Jan 23 01:42:28 +0000 | From the Kraken REST API. |</code></pre>
 <!--END_SECTION:crypto-prices-->
 </div>
 
@@ -24,14 +24,17 @@
 </div>
 
 <p>I have a programming and math addiction.</p>
-<p align="center"><a href="https://github.com/SoupyzInc"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" height="14" alt="GitHub: "> SoupyzInc</a> • <a href="https://www.linkedin.com/in/mokashita/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height="14" alt="LinkedIn: "> mokashita</a></p>
 
-<h2>Data Engineer - Bulls Racing</h2>
+<h2 align="center">Data Engineer - Bulls Racing</h2>
 <details><summary>Click to expand summary!</summary>
-•	<b><ins>Saved $2,495</ins></b> per year from the team’s budget by developing a bespoke tire data analysis program using MATLAB to substitute out-of-budget software such as OptimumTire.<br>
-•	<b><ins>Justified purchasing of over $4,000 in new tires with 90 different graphs</ins></b> (FY vs SA and MZ vs SA) comparing different tire and rim combinations. Graphs also determined an optimal tire pressure of 10 PSI for our vehicle setup.
+<br>•	<b><ins>Saved $2,495</ins></b> per year from the team’s budget by developing a bespoke tire data analysis program using MATLAB to substitute out-of-budget software such as OptimumTire.
+<br>•	<b><ins>Justified purchasing of over $4,000 in new tires with 90 different graphs</ins></b> (FY vs SA and MZ vs SA) comparing different tire and rim combinations. Graphs also determined an optimal tire pressure of 10 PSI for our vehicle setup.
+<br>•	Documented and maintain over 60 different sensors and 190 data channels that these sensors produce.
+<br>•	Assisted in the design on the new wiring harness by calculating safety of lighter, lower-gauge wires in the safety circuit.
+<br>•	Promoted to Junior Engineer for consistent daily dedication of progressive work towards the team. Consistently produced work that positively impacted the quality of our car. Junior Engineer is a steppingstone role to becoming a Design Lead or other Executive Board and leadership positions.
 </details>
-<h2>Software Engineering Projects</h2>
+
+<h2 align="center">Software Engineering Projects</h2>
 <h3><a href="https://github.com/SoupyzInc/NotrealEngine">Notreal Engine</a> – Graphics Engine | <i>C++, OpenGL, GLFW, GLM</i></h3>
 <h3><a href="https://github.com/SoupyzInc/LineDelta">LineDelta</a> – Topological Data Analysis Research | <i>Python, Matplotlib</i></h3>
 <h3><a href="https://github.com/Derivasians/Calculatte">Calculatte</a> – Numerical Calculus Library | <i>Java, GitHub, Unit Testing</i></h3>
@@ -48,3 +51,5 @@ System.out.println(a);</code></pre>
 </details>
 
 <h3><a href="https://github.com/SoupyzInc/NotrealEngine">SoupOS</a> – Operating System Kernel | <i>C/C++, QEMU</i></h3>
+
+<p align="center"><a href="https://github.com/SoupyzInc"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" height="14" alt="GitHub: "> SoupyzInc</a> • <a href="https://www.linkedin.com/in/mokashita/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height="14" alt="LinkedIn: "> mokashita</a></p>
