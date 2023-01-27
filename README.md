@@ -36,7 +36,9 @@
 
 <h2 align="center">Software Engineering Projects</h2>
 <h3><a href="https://github.com/SoupyzInc/NotrealEngine">Notreal Engine</a> – Graphics Engine | <i>C++, OpenGL, GLFW, GLM</i></h3>
-•	Developed an OpenGL based graphics engine from scratch. Supports rendering of 3D objects with custom textures, shading, and Phong lighting with specular maps.
+<details><summary>Developed an OpenGL based graphics engine from scratch. Supports rendering of 3D objects with custom textures, shading, and Phong lighting with specular maps.</summary>
+<br><img src="https://github.com/SoupyzInc/NotrealEngine/blob/main/docs/58abe127/phong_demo.png" alt="A wooden crate with shiny metal reinforcements.">
+</details>
 
 <h3><a href="https://github.com/SoupyzInc/LineDelta">LineDelta</a> – Topological Data Analysis Research | <i>Python, Matplotlib</i></h3>
 <details><summary>Developed a topological data analysis framework to analyze spikiness in chronological or time series data</summary>
