@@ -28,8 +28,8 @@
 
 <h2>Data Engineer - Bulls Racing</h2>
 <details><summary>Click to expand summary!</summary>
-•	<b>Saved $2,495</b> per year from the team’s budget by developing a bespoke tire data analysis program using MATLAB to substitute out-of-budget software such as OptimumTire.<br>
-•	<b>Justified purchasing of over $4,000 in new tires with 90 different graphs</b> (FY vs SA and MZ vs SA) comparing different tire and rim combinations. Graphs also determined an optimal tire pressure of 10 PSI for our vehicle setup.
+•	<b><ins>Saved $2,495</ins></b> per year from the team’s budget by developing a bespoke tire data analysis program using MATLAB to substitute out-of-budget software such as OptimumTire.<br>
+•	<b><ins>Justified purchasing of over $4,000 in new tires with 90 different graphs</ins></b> (FY vs SA and MZ vs SA) comparing different tire and rim combinations. Graphs also determined an optimal tire pressure of 10 PSI for our vehicle setup.
 </details>
 <h2>Software Engineering Projects</h2>
 <h3><a href="https://github.com/SoupyzInc/NotrealEngine">Notreal Engine</a> – Graphics Engine | <i>C++, OpenGL, GLFW, GLM</i></h3>
