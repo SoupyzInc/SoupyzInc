@@ -59,7 +59,7 @@ double a = c.integrate(0, 2, TwoX);
 System.out.println(a);</code></pre>
 </details>
 
-<h3><a href="https://github.com/SoupyzInc/NotrealEngine">SoupOS</a> – Operating System Kernel | <i>C/C++, QEMU</i></h3>
+<h3>SoupOS – Operating System Kernel | <i>C/C++, QEMU</i></h3>
 •	Developed a Linux-like operating system kernel from scratch using C, C++, and assembly. The operating
 system was hosted on a QEMU virtual machine.
 
