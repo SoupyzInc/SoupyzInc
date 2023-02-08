@@ -63,4 +63,4 @@ System.out.println(a);</code></pre>
 •	Developed a Linux-like operating system kernel from scratch using C, C++, and assembly. The operating
 system was hosted on a QEMU virtual machine.
 
-<br><p align="center"><a href="https://github.com/SoupyzInc"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" height="14" alt="GitHub: "> SoupyzInc</a> • <a href="https://www.linkedin.com/in/mokashita/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height="14" alt="LinkedIn: "> mokashita</a></p>
+<br><p align="center"><a href="https://github.com/SoupyzInc"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" height="14" alt="GitHub: "> SoupyzInc</a> • <a href="https://www.linkedin.com/in/mokashita/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height="14" alt="LinkedIn: "> mokashita</a><br><br><img src="https://komarev.com/ghpvc/?username=SoupyzInc&color=b5bd68"></p>
