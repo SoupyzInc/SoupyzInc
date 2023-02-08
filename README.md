@@ -13,7 +13,7 @@
 
 <div align="center">
 <!--START_SECTION:crypto-prices-->
-<pre><code>| BTC: $23244.2 ▲ 0.35% | LTC: $101.21 ▲ 0.23% | As of Wed, 08 Feb 23 05:20:13 +0000 | From the Kraken REST API. |</code></pre>
+<pre><code>| BTC: $23247.5 ▲ 0.35% | LTC: $101.08 ▲ 0.23% | As of Wed, 08 Feb 23 05:18:16 +0000 | From the Kraken REST API. |</code></pre>
 <!--END_SECTION:crypto-prices-->
 </div>
 
@@ -63,4 +63,6 @@ System.out.println(a);</code></pre>
 •	Developed a Linux-like operating system kernel from scratch using C, C++, and assembly. The operating
 system was hosted on a QEMU virtual machine.
 
-<br><p align="center"><a href="https://github.com/SoupyzInc"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" height="14" alt="GitHub: "> SoupyzInc</a> • <a href="https://www.linkedin.com/in/mokashita/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height="14" alt="LinkedIn: "> mokashita</a><br><br><img src="https://komarev.com/ghpvc/?username=SoupyzInc&color=b5bd68"></p>![](https://hit.yhype.me/github/profile?user_id=54863556)
+![](https://hit.yhype.me/github/profile?user_id=54863556)
+
+<br><p align="center"><a href="https://github.com/SoupyzInc"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" height="14" alt="GitHub: "> SoupyzInc</a> • <a href="https://www.linkedin.com/in/mokashita/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height="14" alt="LinkedIn: "> mokashita</a><br><br><img src="https://komarev.com/ghpvc/?username=SoupyzInc&color=b5bd68"></p>
