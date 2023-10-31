@@ -13,7 +13,7 @@
 
 <div align="center">
 <!--START_SECTION:crypto-prices-->
-<pre><code>| BTC: $34370.2 ▲ 0.26% | LTC: $69.52 ▲ 0.03% | As of Tue, 31 Oct 23 10:19:56 +0000 | From the Kraken REST API. |</code></pre>
+<pre><code>| BTC: $34421.7 ▲ 0.27% | LTC: $69.87 ▲ 0.03% | As of Tue, 31 Oct 23 11:14:16 +0000 | From the Kraken REST API. |</code></pre>
 <!--END_SECTION:crypto-prices-->
 </div>
 
