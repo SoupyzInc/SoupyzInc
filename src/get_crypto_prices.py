@@ -38,11 +38,11 @@ if __name__ == "__main__":
         else:
             print('No query errors.')
             # Get BTC prices
-            btc_oldest = float(btc_data[0][4])
+            btc_oldest = float(btc_data[-24][4])  # 24h ago (hourly candles)
             btc_latest = float(btc_data[-1][4])
 
             # Calculate BTC data
-            btc_percent = round((btc_latest - btc_oldest) / btc_oldest, 2)
+            btc_percent = round((btc_latest - btc_oldest) / btc_oldest * 100, 2)
 
             # Build BTC string
             btc_arrow = '▼'
@@ -52,11 +52,11 @@ if __name__ == "__main__":
             btc_string = 'BTC: ${0} {1} {2}%'.format(btc_latest, btc_arrow, btc_percent)
 
             # Get LTC Prices
-            ltc_oldest = float(ltc_data[0][4])
+            ltc_oldest = float(ltc_data[-24][4])  # 24h ago (hourly candles)
             ltc_latest = float(ltc_data[-1][4])
             
             # Calculate LTC data
-            ltc_percent = round((ltc_latest - ltc_oldest) / ltc_oldest, 2)
+            ltc_percent = round((ltc_latest - ltc_oldest) / ltc_oldest * 100, 2)
 
             # Build LTC string
             ltc_arrow = '▼'
